@@ -1,0 +1,22 @@
+{
+  "name": "bdsft-sdk-view",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bdsft-sdk-core": "BroadSoft-Xtended/Library-SDK-Core.git",
+    "bdsft-sdk-utils": "BroadSoft-Xtended/Library-SDK-Utils.git",
+    "bdsft-sdk-styles": "BroadSoft-Xtended/Library-SDK-Styles.git",
+    "bdsft-sdk-factory": "BroadSoft-Xtended/Library-SDK-Factory.git",
+    "jquery": "^2.1.4"
+  },
+  "devDependencies": {
+    "mocha": "2.1.0",
+    "expect": "1.6.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
