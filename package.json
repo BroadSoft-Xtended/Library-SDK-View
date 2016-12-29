@@ -7,10 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "bdsft-sdk-core": "BroadSoft-Xtended/Library-SDK-Core.git",
-    "bdsft-sdk-utils": "BroadSoft-Xtended/Library-SDK-Utils.git",
-    "bdsft-sdk-styles": "BroadSoft-Xtended/Library-SDK-Styles.git",
-    "bdsft-sdk-factory": "BroadSoft-Xtended/Library-SDK-Factory.git",
+    "bdsft-sdk-core": "BroadSoft-Xtended/Library-SDK-Core",
+    "bdsft-sdk-utils": "BroadSoft-Xtended/Library-SDK-Utils",
+    "bdsft-sdk-styles": "BroadSoft-Xtended/Library-SDK-Styles",
+    "bdsft-sdk-factory": "BroadSoft-Xtended/Library-SDK-Factory",
     "jquery": "^2.1.4"
   },
   "devDependencies": {
